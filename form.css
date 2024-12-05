@@ -1,0 +1,23 @@
+form{
+    margin-top: 40px;
+    margin-left: 40px;
+    width:50%;
+    background-color: lightblue;
+    border: black;
+}
+label{
+    display: block;
+}
+input{
+    margin-left: 40px;
+    height:20px;
+    border: 2px solid blue;
+    color: crimson;
+}
+button{
+    background-color: gray;
+    color: white;
+    padding-right: 20px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,80 @@
+.wakeupmum{
+    margin: 0;
+    padding: 0;
+}
+.kidsshow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    color: black;
+}
+.wakeupmum{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.wakeupmum img{
+    position:absolute;
+    left: 50%;
+    top :70%;
+    transform: translate(-50%,-50%);
+    width: 1310px;
+    height: 600px;
+}
+.content{
+    z-index:7;
+    text-align: center;
+    color: violet;
+}
+.content h1{
+    font-size: 40px;
+ 
+}
+.content a{
+    color:turquoise;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.middlesec{
+    background-color: burlywood;
+    margin-top: 450px;
+}
+.middlesec h1{
+    color:gray;
+    text-decoration: underline;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.middlesec p{
+    margin-left: 20px;
+}
+.middlesec p::first-letter
+{
+    color: chartreuse;
+    font-size: 40px;
+    font-style: italic;
+}
+.foot{
+    text-align: center;
+}
+.middlesec1{
+    background-color: rgb(151, 140, 126);
+    margin-top: 150px; 
+}
+.middlesec1 h1{
+    color:blue;
+    text-decoration: underline;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.middlesec1 p{
+    margin-left:20px;
+}
+.middlesec1 p::first-letter
+{
+    color: yellow;
+    font-size: 40px;
+    font-style: italic;
+}
